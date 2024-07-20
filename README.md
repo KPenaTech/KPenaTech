@@ -4,11 +4,11 @@
 
 
 - 👋 Hi, I’m KP
-- 👀 I’m a WebDeveloper (WebEngineer (Programmer) in the making
+- 👀 WebDeveloper in the making
 - 🌱 Currently learning JS, React, SQL 
-- 💞️ I’m looking to build my portfolio with beautiful designs
+- 💞️ Looking to build my portfolio with creative designs
 - 📫 Email: kp.exe.tech@gmail.com
-- ⚡ Hot soups are best on a hot summer day. 
+
 
 <!---
 KPenaTech/KPenaTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
