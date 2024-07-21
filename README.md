@@ -6,7 +6,7 @@
 <div>
   <ul>
      <li> 👋 Hi, I’m KP </li>
-     <li> 👀 WebDeveloper in the making </li>
+     <li> 👀 Web/UX Designer in the making </li>
      <li>🌱 Currently learning JS, React, SQL </li>
      <li>💞️ Looking to build my portfolio with creative designs</li>
      <li> 📫 Email: kp.exe.tech@gmail.com</li>
